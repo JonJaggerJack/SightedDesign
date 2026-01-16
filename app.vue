@@ -1,0 +1,3 @@
+fc <template>
+  <NuxtPage />
+</template>
