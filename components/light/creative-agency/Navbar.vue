@@ -2,8 +2,8 @@
   <nav class="navbar navbar-expand-lg bord blur">
     <div class="container">
       <a class="logo icon-img-100" href="#">
-        <!-- <img src="/light/assets/imgs/logo-light.png" alt="logo" /> -->
-        <span class="logo-text">SIGHTEDDESIGN</span>
+        <img :src="logoSrc" alt="Sighted Design" />
+        <!-- <span class="logo-text">SIGHTEDDESIGN</span> -->
       </a>
 
       <div
@@ -101,8 +101,8 @@
 
   <div :class="`hamenu ${isOpen && 'open'}`">
     <div class="logo icon-img-100">
-      <!-- <img src="/light/assets/imgs/logo-light.png" alt="" /> -->
-      <span class="logo-text">SIGHTEDDESIGN</span>
+      <img src="/light/assets/imgs/screw-logo/sighted-design-logo-04.svg" alt="Sighted Design" />
+      <!-- <span class="logo-text">SIGHTEDDESIGN</span> -->
     </div>
     <div @click="closeMenu" class="close-menu cursor-pointer ti-close"></div>
     <div class="container">
@@ -244,12 +244,19 @@
 import { onMounted, onUnmounted } from 'vue';
 import { ref } from 'vue';
 
+const logoSrc = ref('/light/assets/imgs/screw-logo/sighted-design-logo-04.svg');
+
 function handleScroll() {
   const bodyScroll = window.scrollY;
   const navbar = document.querySelector('.navbar');
 
-  if (bodyScroll > 300) navbar.classList.add('nav-scroll');
-  else navbar.classList.remove('nav-scroll');
+  if (bodyScroll > 300) {
+    navbar.classList.add('nav-scroll');
+    logoSrc.value = '/light/assets/imgs/screw-logo/sighted-design-logo-01.svg';
+  } else {
+    navbar.classList.remove('nav-scroll');
+    logoSrc.value = '/light/assets/imgs/screw-logo/sighted-design-logo-04.svg';
+  }
 }
 
 function handleDropdownMouseMove(event) {

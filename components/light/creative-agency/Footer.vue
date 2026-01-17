@@ -18,8 +18,8 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="logo icon-img-100">
-            <!-- <img src="/light/assets/imgs/logo-light.png" alt="" /> -->
-            <span class="logo-text">SIGHTEDDESIGN</span>
+            <img src="/light/assets/imgs/screw-logo/sighted-design-logo-04.svg" alt="Sighted Design" />
+            <!-- <span class="logo-text">SIGHTEDDESIGN</span> -->
           </div>
         </div>
         <div class="col-lg-4">

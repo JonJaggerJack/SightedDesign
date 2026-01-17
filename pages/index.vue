@@ -16,7 +16,7 @@
         <Brands />
         <ServicesTab />
         <Testimonials />
-        <Team />
+        <!-- <Team /> -->
         <Blog />
       </main>
       <div>
@@ -56,11 +56,19 @@ useHead({
 });
 
 onMounted(() => {
-  gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
-  ScrollTrigger.normalizeScroll(true);
-  ScrollSmoother.create({
-    smooth: 2,
-    effects: true,
-  });
+  if (typeof window !== 'undefined') {
+    const gsap = window.gsap;
+    const ScrollTrigger = window.ScrollTrigger;
+    const ScrollSmoother = window.ScrollSmoother;
+    
+    if (gsap && ScrollTrigger && ScrollSmoother) {
+      gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
+      ScrollTrigger.normalizeScroll(true);
+      ScrollSmoother.create({
+        smooth: 2,
+        effects: true,
+      });
+    }
+  }
 });
 </script>

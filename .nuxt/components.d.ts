@@ -23,6 +23,9 @@ export const LightAboutIntro2: typeof import("../components/light/about/Intro2.v
 export const LightAboutMarquee: typeof import("../components/light/about/Marquee.vue").default
 export const LightAboutTeam: typeof import("../components/light/about/Team.vue").default
 export const LightAboutTestimonials: typeof import("../components/light/about/Testimonials.vue").default
+export const LightBlogDetailsContent: typeof import("../components/light/blog-details/Content.vue").default
+export const LightBlogDetailsHeader: typeof import("../components/light/blog-details/Header.vue").default
+export const LightBlogDetailsRelated: typeof import("../components/light/blog-details/Related.vue").default
 export const LightBlogListBlogs: typeof import("../components/light/blog-list/Blogs.vue").default
 export const LightBlogListFooter: typeof import("../components/light/blog-list/Footer.vue").default
 export const LightBlogListHeader: typeof import("../components/light/blog-list/Header.vue").default
@@ -102,6 +105,9 @@ export const LazyLightAboutIntro2: LazyComponent<typeof import("../components/li
 export const LazyLightAboutMarquee: LazyComponent<typeof import("../components/light/about/Marquee.vue").default>
 export const LazyLightAboutTeam: LazyComponent<typeof import("../components/light/about/Team.vue").default>
 export const LazyLightAboutTestimonials: LazyComponent<typeof import("../components/light/about/Testimonials.vue").default>
+export const LazyLightBlogDetailsContent: LazyComponent<typeof import("../components/light/blog-details/Content.vue").default>
+export const LazyLightBlogDetailsHeader: LazyComponent<typeof import("../components/light/blog-details/Header.vue").default>
+export const LazyLightBlogDetailsRelated: LazyComponent<typeof import("../components/light/blog-details/Related.vue").default>
 export const LazyLightBlogListBlogs: LazyComponent<typeof import("../components/light/blog-list/Blogs.vue").default>
 export const LazyLightBlogListFooter: LazyComponent<typeof import("../components/light/blog-list/Footer.vue").default>
 export const LazyLightBlogListHeader: LazyComponent<typeof import("../components/light/blog-list/Header.vue").default>
