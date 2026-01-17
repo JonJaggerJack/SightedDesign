@@ -36,6 +36,22 @@ export default defineNuxtConfig({
           name: 'author',
           content: 'Sighted Design',
         },
+        {
+          property: 'og:title',
+          content: 'SightedDesign',
+        },
+        {
+          property: 'og:description',
+          content: 'Digital Agency - Creative Solutions',
+        },
+        {
+          property: 'og:image',
+          content: '/light/assets/imgs/logo-light.png',
+        },
+        {
+          property: 'og:type',
+          content: 'website',
+        },
       ],
       link: [
         { rel: 'shortcut icon', href: '/light/assets/imgs/logo-light.png' },
