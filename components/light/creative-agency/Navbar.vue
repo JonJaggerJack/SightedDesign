@@ -462,14 +462,6 @@ function toggleSubMenu2(event) {
   color: #000000 !important;
 }
 
-.navbar.nav-scroll .navbar-nav .dropdown-menu a {
-  color: #ffffff !important;
-}
-
-.navbar.nav-scroll .navbar-nav .dropdown-menu a:hover {
-  color: #ffffff !important;
-}
-
 .navbar.nav-scroll .menu-icon .icon {
   color: #000000 !important;
 }
