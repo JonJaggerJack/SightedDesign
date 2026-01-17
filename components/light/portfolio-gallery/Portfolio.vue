@@ -17,7 +17,7 @@
         <div
           v-for="(item, i) in data"
           :key="i"
-          :class="['col-lg-4', 'col-md-6', 'items', item.subTitle]"
+          :class="['col-lg-4', 'col-md-6', 'items', item.category.toLowerCase().replace(' ', '-')]"
         >
           <div class="item mt-40">
             <div class="img">
@@ -28,7 +28,7 @@
                     <a :href="item.link">{{ item.title }}</a>
                   </h5>
                   <p>
-                    <a :href="item.link">{{ item.subTitle.split(' ')[0] }}</a>
+                    <a :href="item.link">{{ item.title.split(' ')[0] }}</a>
                   </p>
                 </div>
                 <div class="ml-auto">

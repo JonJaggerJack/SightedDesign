@@ -2,7 +2,8 @@
   <nav class="navbar navbar-expand-lg bord blur">
     <div class="container">
       <a class="logo icon-img-100" href="#">
-        <img src="/light/assets/imgs/logo-light.png" alt="logo" />
+        <!-- <img src="/light/assets/imgs/logo-light.png" alt="logo" /> -->
+        <span class="logo-text">SIGHTEDDESIGN</span>
       </a>
 
       <div
@@ -100,7 +101,8 @@
 
   <div :class="`hamenu ${isOpen && 'open'}`">
     <div class="logo icon-img-100">
-      <img src="/light/assets/imgs/logo-light.png" alt="" />
+      <!-- <img src="/light/assets/imgs/logo-light.png" alt="" /> -->
+      <span class="logo-text">SIGHTEDDESIGN</span>
     </div>
     <div @click="closeMenu" class="close-menu cursor-pointer ti-close"></div>
     <div class="container">
@@ -194,8 +196,8 @@
             <div class="item mb-50">
               <h6 class="sub-title mb-15 opacity-7">Address</h6>
               <h5>
-                541 Melville Geek, <br />
-                Palo Alto, CA 94301
+                Ibanda, Q. Nyalukemba <br />
+                Avenue de la Residence
               </h5>
             </div>
             <div class="item mb-50">
@@ -226,10 +228,10 @@
             <div class="item mb-40">
               <h6 class="sub-title mb-15 opacity-7">Contact Us</h6>
               <h5>
-                <a href="#0">Hello@email.com</a>
+                <a href="#0">contact@sighteddesign.com</a>
               </h5>
               <h5 class="underline mt-10">
-                <a href="#0">+1 840 841 25 69</a>
+                <a href="#0">+243 992 304 444</a>
               </h5>
             </div>
           </div>
@@ -468,5 +470,27 @@ function toggleSubMenu2(event) {
 
 .navbar.nav-scroll .menu-icon:hover .icon {
   color: #333333 !important;
+}
+
+/* Logo Text Styling */
+.logo .logo-text {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  line-height: 1;
+}
+
+.navbar.nav-scroll .logo .logo-text {
+  color: #000000;
+}
+
+.hamenu .logo .logo-text {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #1a1a1a;
 }
 </style>

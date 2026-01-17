@@ -18,7 +18,8 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="logo icon-img-100">
-            <img src="/light/assets/imgs/logo-light.png" alt="" />
+            <!-- <img src="/light/assets/imgs/logo-light.png" alt="" /> -->
+            <span class="logo-text">SIGHTEDDESIGN</span>
           </div>
         </div>
         <div class="col-lg-4">
@@ -102,12 +103,7 @@
         </div>
         <div class="ml-auto">
           <p class="fz-14">
-            © 2024 InFolio is Proudly Powered by
-            <span class="underline main-color">
-              <a href="https://themeforest.net/user/UiCamp" target="_blank">
-                UiCamp
-              </a>
-            </span>
+            © 2026 Sighteddesign
           </p>
         </div>
       </div>

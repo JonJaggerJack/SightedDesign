@@ -5,7 +5,8 @@
         <div class="row pb-30 bord-thin-bottom">
           <div class="col-lg-5">
             <div class="logo icon-img-120">
-              <img src="/light/assets/imgs/logo-light.png" alt="" />
+              <!-- <img src="/light/assets/imgs/logo-light.png" alt="" /> -->
+              <span class="logo-text">SIGHTEDDESIGN</span>
             </div>
           </div>
           <div class="col-lg-7">
