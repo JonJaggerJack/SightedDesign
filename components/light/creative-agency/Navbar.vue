@@ -61,16 +61,6 @@
                   Services
                 </a>
               </li>
-              <!-- 
-              <li>
-                <a class="dropdown-item" href="/light/page-team"> Our Team </a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="/light/page-team-single">
-                  Team Details
-                </a>
-              </li>
-              -->
             </ul>
           </li>
           <li class="nav-item">
@@ -163,18 +153,6 @@
                         Services
                       </a>
                     </li>
-                    <!-- 
-                    <li>
-                      <a href="/light/page-team" class="sub-link">
-                        Our Team
-                      </a>
-                    </li>
-                    <li>
-                      <a href="/light/page-team-single" class="sub-link">
-                        Team Details
-                      </a>
-                    </li>
-                    -->
                   </ul>
                 </div>
               </li>

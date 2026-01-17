@@ -15,6 +15,10 @@ type LazyComponent<T> = DefineComponent<HydrationStrategies, {}, {}, {}, {}, {},
 
 interface _GlobalComponents {
   'LightAbout': typeof import("../../components/light/About.vue").default
+  'LightOthers PagesTeam': typeof import("../../components/light/Others Pages/Team.vue").default
+  'LightOthers PagesTeamSingleSkills': typeof import("../../components/light/Others Pages/team-single/Skills.vue").default
+  'LightOthers PagesTeamSingleTeam': typeof import("../../components/light/Others Pages/team-single/Team.vue").default
+  'LightOthers PagesTeamHeader': typeof import("../../components/light/Others Pages/team/Header.vue").default
   'LightAboutBlog': typeof import("../../components/light/about/Blog.vue").default
   'LightAboutFooter': typeof import("../../components/light/about/Footer.vue").default
   'LightAboutHeader': typeof import("../../components/light/about/Header.vue").default
@@ -70,10 +74,6 @@ interface _GlobalComponents {
   'LightServicesProcess': typeof import("../../components/light/services/Process.vue").default
   'LightServices': typeof import("../../components/light/services/Services.vue").default
   'LightShowcaseHalfSliderHeader': typeof import("../../components/light/showcase-half-slider/Header.vue").default
-  'LightTeamSingleSkills': typeof import("../../components/light/team-single/Skills.vue").default
-  'LightTeamSingleTeam': typeof import("../../components/light/team-single/Team.vue").default
-  'LightTeamHeader': typeof import("../../components/light/team/Header.vue").default
-  'LightTeam': typeof import("../../components/light/team/Team.vue").default
   'NuxtWelcome': typeof import("../../node_modules/nuxt/dist/app/components/welcome.vue").default
   'NuxtLayout': typeof import("../../node_modules/nuxt/dist/app/components/nuxt-layout").default
   'NuxtErrorBoundary': typeof import("../../node_modules/nuxt/dist/app/components/nuxt-error-boundary.vue").default
@@ -98,6 +98,10 @@ interface _GlobalComponents {
   'Body': typeof import("../../node_modules/nuxt/dist/head/runtime/components").Body
   'NuxtIsland': typeof import("../../node_modules/nuxt/dist/app/components/nuxt-island").default
   'LazyLightAbout': LazyComponent<typeof import("../../components/light/About.vue").default>
+  'LazyLightOthers PagesTeam': LazyComponent<typeof import("../../components/light/Others Pages/Team.vue").default>
+  'LazyLightOthers PagesTeamSingleSkills': LazyComponent<typeof import("../../components/light/Others Pages/team-single/Skills.vue").default>
+  'LazyLightOthers PagesTeamSingleTeam': LazyComponent<typeof import("../../components/light/Others Pages/team-single/Team.vue").default>
+  'LazyLightOthers PagesTeamHeader': LazyComponent<typeof import("../../components/light/Others Pages/team/Header.vue").default>
   'LazyLightAboutBlog': LazyComponent<typeof import("../../components/light/about/Blog.vue").default>
   'LazyLightAboutFooter': LazyComponent<typeof import("../../components/light/about/Footer.vue").default>
   'LazyLightAboutHeader': LazyComponent<typeof import("../../components/light/about/Header.vue").default>
@@ -153,10 +157,6 @@ interface _GlobalComponents {
   'LazyLightServicesProcess': LazyComponent<typeof import("../../components/light/services/Process.vue").default>
   'LazyLightServices': LazyComponent<typeof import("../../components/light/services/Services.vue").default>
   'LazyLightShowcaseHalfSliderHeader': LazyComponent<typeof import("../../components/light/showcase-half-slider/Header.vue").default>
-  'LazyLightTeamSingleSkills': LazyComponent<typeof import("../../components/light/team-single/Skills.vue").default>
-  'LazyLightTeamSingleTeam': LazyComponent<typeof import("../../components/light/team-single/Team.vue").default>
-  'LazyLightTeamHeader': LazyComponent<typeof import("../../components/light/team/Header.vue").default>
-  'LazyLightTeam': LazyComponent<typeof import("../../components/light/team/Team.vue").default>
   'LazyNuxtWelcome': LazyComponent<typeof import("../../node_modules/nuxt/dist/app/components/welcome.vue").default>
   'LazyNuxtLayout': LazyComponent<typeof import("../../node_modules/nuxt/dist/app/components/nuxt-layout").default>
   'LazyNuxtErrorBoundary': LazyComponent<typeof import("../../node_modules/nuxt/dist/app/components/nuxt-error-boundary.vue").default>

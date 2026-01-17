@@ -15,6 +15,10 @@ type LazyComponent<T> = DefineComponent<HydrationStrategies, {}, {}, {}, {}, {},
 
 
 export const LightAbout: typeof import("../components/light/About.vue").default
+export const LightOthers PagesTeam: typeof import("../components/light/Others Pages/Team.vue").default
+export const LightOthers PagesTeamSingleSkills: typeof import("../components/light/Others Pages/team-single/Skills.vue").default
+export const LightOthers PagesTeamSingleTeam: typeof import("../components/light/Others Pages/team-single/Team.vue").default
+export const LightOthers PagesTeamHeader: typeof import("../components/light/Others Pages/team/Header.vue").default
 export const LightAboutBlog: typeof import("../components/light/about/Blog.vue").default
 export const LightAboutFooter: typeof import("../components/light/about/Footer.vue").default
 export const LightAboutHeader: typeof import("../components/light/about/Header.vue").default
@@ -70,10 +74,6 @@ export const LightServicesPrice: typeof import("../components/light/services/Pri
 export const LightServicesProcess: typeof import("../components/light/services/Process.vue").default
 export const LightServices: typeof import("../components/light/services/Services.vue").default
 export const LightShowcaseHalfSliderHeader: typeof import("../components/light/showcase-half-slider/Header.vue").default
-export const LightTeamSingleSkills: typeof import("../components/light/team-single/Skills.vue").default
-export const LightTeamSingleTeam: typeof import("../components/light/team-single/Team.vue").default
-export const LightTeamHeader: typeof import("../components/light/team/Header.vue").default
-export const LightTeam: typeof import("../components/light/team/Team.vue").default
 export const NuxtWelcome: typeof import("../node_modules/nuxt/dist/app/components/welcome.vue").default
 export const NuxtLayout: typeof import("../node_modules/nuxt/dist/app/components/nuxt-layout").default
 export const NuxtErrorBoundary: typeof import("../node_modules/nuxt/dist/app/components/nuxt-error-boundary.vue").default
@@ -98,6 +98,10 @@ export const Html: typeof import("../node_modules/nuxt/dist/head/runtime/compone
 export const Body: typeof import("../node_modules/nuxt/dist/head/runtime/components").Body
 export const NuxtIsland: typeof import("../node_modules/nuxt/dist/app/components/nuxt-island").default
 export const LazyLightAbout: LazyComponent<typeof import("../components/light/About.vue").default>
+export const LazyLightOthers PagesTeam: LazyComponent<typeof import("../components/light/Others Pages/Team.vue").default>
+export const LazyLightOthers PagesTeamSingleSkills: LazyComponent<typeof import("../components/light/Others Pages/team-single/Skills.vue").default>
+export const LazyLightOthers PagesTeamSingleTeam: LazyComponent<typeof import("../components/light/Others Pages/team-single/Team.vue").default>
+export const LazyLightOthers PagesTeamHeader: LazyComponent<typeof import("../components/light/Others Pages/team/Header.vue").default>
 export const LazyLightAboutBlog: LazyComponent<typeof import("../components/light/about/Blog.vue").default>
 export const LazyLightAboutFooter: LazyComponent<typeof import("../components/light/about/Footer.vue").default>
 export const LazyLightAboutHeader: LazyComponent<typeof import("../components/light/about/Header.vue").default>
@@ -153,10 +157,6 @@ export const LazyLightServicesPrice: LazyComponent<typeof import("../components/
 export const LazyLightServicesProcess: LazyComponent<typeof import("../components/light/services/Process.vue").default>
 export const LazyLightServices: LazyComponent<typeof import("../components/light/services/Services.vue").default>
 export const LazyLightShowcaseHalfSliderHeader: LazyComponent<typeof import("../components/light/showcase-half-slider/Header.vue").default>
-export const LazyLightTeamSingleSkills: LazyComponent<typeof import("../components/light/team-single/Skills.vue").default>
-export const LazyLightTeamSingleTeam: LazyComponent<typeof import("../components/light/team-single/Team.vue").default>
-export const LazyLightTeamHeader: LazyComponent<typeof import("../components/light/team/Header.vue").default>
-export const LazyLightTeam: LazyComponent<typeof import("../components/light/team/Team.vue").default>
 export const LazyNuxtWelcome: LazyComponent<typeof import("../node_modules/nuxt/dist/app/components/welcome.vue").default>
 export const LazyNuxtLayout: LazyComponent<typeof import("../node_modules/nuxt/dist/app/components/nuxt-layout").default>
 export const LazyNuxtErrorBoundary: LazyComponent<typeof import("../node_modules/nuxt/dist/app/components/nuxt-error-boundary.vue").default>
