@@ -1,4 +1,5 @@
 <template>
+  <!-- 
   <LoadingScreen />
   <Cursor />
   <ProgressScroll />
@@ -13,6 +14,7 @@
       <Footer />
     </div>
   </div>
+  -->
 </template>
 <script setup>
 import Footer from '@/components/light/modern-agency/Footer';
