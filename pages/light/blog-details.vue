@@ -8,8 +8,9 @@
     <div id="smooth-content">
       <main class="main-bg">
         <Header />
-        <Content />
-        <Related />
+        <Blog />
+        <Recent />
+        <Slider />
       </main>
       <Footer />
     </div>
@@ -17,15 +18,16 @@
 </template>
 
 <script setup>
-import Content from '@/components/light/blog-details/Content';
+import Blog from '@/components/light/blog-details/Blog';
 import Footer from '@/components/light/blog-list/Footer';
-import Header from '@/components/light/blog-details/Header';
+import Header from '@/components/light/blog-list/Header';
 import Lines from '@/components/light/common/Lines';
 import ProgressScroll from '@/components/light/common/ProgressScroll';
 import Cursor from '@/components/light/common/cusor';
 import LoadingScreen from '@/components/light/common/loader';
 import Navbar from '@/components/light/creative-agency/Navbar';
-import Related from '@/components/light/blog-details/Related';
+import Recent from '@/components/light/blog-details/Recent';
+import Slider from '@/components/light/blog-details/Slider';
 import { onMounted } from 'vue';
 
 useHead({

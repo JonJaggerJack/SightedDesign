@@ -23,9 +23,10 @@ interface _GlobalComponents {
   'LightAboutMarquee': typeof import("../../components/light/about/Marquee.vue").default
   'LightAboutTeam': typeof import("../../components/light/about/Team.vue").default
   'LightAboutTestimonials': typeof import("../../components/light/about/Testimonials.vue").default
-  'LightBlogDetailsContent': typeof import("../../components/light/blog-details/Content.vue").default
-  'LightBlogDetailsHeader': typeof import("../../components/light/blog-details/Header.vue").default
-  'LightBlogDetailsRelated': typeof import("../../components/light/blog-details/Related.vue").default
+  'LightBlogDetailsBlog': typeof import("../../components/light/blog-details/Blog.vue").default
+  'LightBlogDetailsFooter': typeof import("../../components/light/blog-details/Footer.vue").default
+  'LightBlogDetailsRecent': typeof import("../../components/light/blog-details/Recent.vue").default
+  'LightBlogDetailsSlider': typeof import("../../components/light/blog-details/Slider.vue").default
   'LightBlogListBlogs': typeof import("../../components/light/blog-list/Blogs.vue").default
   'LightBlogListFooter': typeof import("../../components/light/blog-list/Footer.vue").default
   'LightBlogListHeader': typeof import("../../components/light/blog-list/Header.vue").default
@@ -105,9 +106,10 @@ interface _GlobalComponents {
   'LazyLightAboutMarquee': LazyComponent<typeof import("../../components/light/about/Marquee.vue").default>
   'LazyLightAboutTeam': LazyComponent<typeof import("../../components/light/about/Team.vue").default>
   'LazyLightAboutTestimonials': LazyComponent<typeof import("../../components/light/about/Testimonials.vue").default>
-  'LazyLightBlogDetailsContent': LazyComponent<typeof import("../../components/light/blog-details/Content.vue").default>
-  'LazyLightBlogDetailsHeader': LazyComponent<typeof import("../../components/light/blog-details/Header.vue").default>
-  'LazyLightBlogDetailsRelated': LazyComponent<typeof import("../../components/light/blog-details/Related.vue").default>
+  'LazyLightBlogDetailsBlog': LazyComponent<typeof import("../../components/light/blog-details/Blog.vue").default>
+  'LazyLightBlogDetailsFooter': LazyComponent<typeof import("../../components/light/blog-details/Footer.vue").default>
+  'LazyLightBlogDetailsRecent': LazyComponent<typeof import("../../components/light/blog-details/Recent.vue").default>
+  'LazyLightBlogDetailsSlider': LazyComponent<typeof import("../../components/light/blog-details/Slider.vue").default>
   'LazyLightBlogListBlogs': LazyComponent<typeof import("../../components/light/blog-list/Blogs.vue").default>
   'LazyLightBlogListFooter': LazyComponent<typeof import("../../components/light/blog-list/Footer.vue").default>
   'LazyLightBlogListHeader': LazyComponent<typeof import("../../components/light/blog-list/Header.vue").default>
