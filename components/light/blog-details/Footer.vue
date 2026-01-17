@@ -102,7 +102,7 @@
         </div>
         <div class="ml-auto">
           <p class="fz-14">
-            © 2024 InFolio is Proudly Powered by
+            © 2024 SightedDesign is Proudly Powered by
             <span class="underline main-color">
               <a href="https://themeforest.net/user/UiCamp" target="_blank">
                 UiCamp

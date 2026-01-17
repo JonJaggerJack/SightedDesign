@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   nitro: {},
   app: {
     head: {
-      title: 'infolio',
+      title: 'sighteddesign',
       htmlAttrs: {
         lang: 'en',
       },
@@ -26,19 +26,19 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Vue Nuxtjs Template webfolio Multi-Purpose themeforest',
+          content: 'sighteddesign',
         },
         {
           name: 'description',
-          content: 'webfolio - Multi-Purpose Vue Nuxtjs Template',
+          content: 'Digital Agency',
         },
         {
           name: 'author',
-          content: 'Uicamp',
+          content: 'Sighted Design',
         },
       ],
       link: [
-        { rel: 'shortcut icon', href: '/light/assets/imgs/favicon.ico' },
+        { rel: 'shortcut icon', href: '/light/assets/imgs/logo-light.png' },
         // Google Fonts
         {
           rel: 'stylesheet',

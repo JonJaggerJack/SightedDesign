@@ -346,7 +346,7 @@
                 <a href="/light/blog-list">Design</a>
                 <a href="/light/blog-list">Dark & Light</a>
                 <a href="/light/blog-list">Minimal</a>
-                <a href="/light/blog-list">Infolio</a>
+                <a href="/light/blog-list">SightedDesign</a>
               </div>
             </div>
           </div>

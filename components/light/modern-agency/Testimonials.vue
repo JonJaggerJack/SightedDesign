@@ -1,4 +1,5 @@
 <template>
+  <!-- 
   <section
     class="testimonials-crev section-padding pb-0 bg-img"
     data-background="/light/assets/imgs/background/8.JPEG"
@@ -97,6 +98,7 @@
       </div>
     </div>
   </section>
+  -->
 </template>
 <script setup>
 import { Swiper, SwiperSlide } from 'swiper/vue';
