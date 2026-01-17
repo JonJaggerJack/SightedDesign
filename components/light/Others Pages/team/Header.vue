@@ -6,11 +6,11 @@
   >
     <div class="container pt-100">
       <div class="text-center">
-        <h1 class="fz-100 text-u">Our Team.</h1>
+        <h1 class="fz-100 text-u">Team.</h1>
         <div class="mt-15">
           <a href="/light/home-main">Home</a>
           <span class="padding-rl-20">|</span>
-          <span class="main-color">Our Team</span>
+          <span class="main-color">Team</span>
         </div>
       </div>
     </div>

@@ -19,7 +19,7 @@
             <div class="row justify-content-center mt-30">
               <div class="col-md-9">
                 <p>
-                  Our team of experts is dedicated to helping you achieve your
+                  We are dedicated to helping you achieve your
                   digital goals. From website design and development to SEO, PPC
                   advertising, and social media marketing.
                 </p>
