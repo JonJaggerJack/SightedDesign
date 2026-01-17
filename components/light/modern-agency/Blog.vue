@@ -1,4 +1,5 @@
 <template>
+  <!-- 
   <section class="blog-list-half section-padding sub-bg">
     <div class="container">
       <div class="sec-head mb-80">
@@ -102,4 +103,5 @@
       </div>
     </div>
   </section>
+  -->
 </template>
