@@ -35,5 +35,5 @@
   </section>
 </template>
 <script setup>
-import data from '@/l-data/services.json';
+import data from '@/data/services.json';
 </script>

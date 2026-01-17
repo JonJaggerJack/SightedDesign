@@ -43,5 +43,5 @@
   </section>
 </template>
 <script setup>
-import data from '@/l-data/team.json';
+import data from '@/data/team.json';
 </script>

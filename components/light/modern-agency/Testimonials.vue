@@ -101,7 +101,7 @@
 <script setup>
 import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Navigation } from 'swiper';
-import data from '@/l-data/testimonials.json';
+import data from '@/data/testimonials.json';
 import loadBackgroudImages from '@/common/loadBackgroudImages';
 const swiperOptions = {
   modules: [Navigation],

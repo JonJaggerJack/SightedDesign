@@ -48,7 +48,7 @@
   </section>
 </template>
 <script setup>
-import data from '@/l-data/portfolios/works3.json';
+import data from '../../../data/Landing/works.json';
 import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Navigation } from 'swiper';
 

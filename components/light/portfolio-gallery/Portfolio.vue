@@ -43,7 +43,7 @@
   </section>
 </template>
 <script setup>
-import data from '@/l-data/portfolios/workstand.json';
+import data from '@/data/Landing/works.json';
 import initIsotope from '@/common/initIsotope';
 onMounted(() => {
   initIsotope('gallery');

@@ -57,7 +57,7 @@
 </template>
 
 <script setup>
-import data from '@/l-data/portfolios/works1';
+import data from '@/data/Landing/works.json';
 import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Navigation, Pagination } from 'swiper';
 

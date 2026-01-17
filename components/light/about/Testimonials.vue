@@ -93,7 +93,7 @@
 </template>
 
 <script setup>
-import data from '@/l-data/testimonials.json';
+import data from '@/data/testimonials.json';
 import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Navigation, Pagination } from 'swiper';
 const swiperOptions = {

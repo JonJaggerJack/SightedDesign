@@ -372,3 +372,109 @@ function toggleSubMenu2(event) {
   }
 }
 </script>
+
+<style scoped>
+/* Texte blanc pour le navbar header normal */
+.navbar .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #f0f0f0 !important;
+}
+
+.navbar .navbar-nav .dropdown-menu {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border: none !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+  color: #ffffff !important;
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item a {
+  color: #ffffff !important;
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item a:hover {
+  color: #ffffff !important;
+}
+
+.navbar .dropdown-menu {
+  color: #ffffff !important;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  color: #ffffff !important;
+}
+
+.navbar .dropdown-menu .dropdown-item a {
+  color: #ffffff !important;
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Bouton hamburger blanc */
+.menu-icon .icon {
+  color: #ffffff !important;
+  font-size: 24px;
+}
+
+.menu-icon:hover .icon {
+  color: #f0f0f0 !important;
+}
+
+/* Sticky menu - Texte noir */
+.navbar.nav-scroll .navbar-nav .nav-link {
+  color: #000000 !important;
+}
+
+.navbar.nav-scroll .navbar-nav .nav-link:hover {
+  color: #333333 !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu {
+  background-color: rgba(26, 26, 26, 0.1) !important;
+  border-color: #333333 !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu .dropdown-item {
+  color: #000000 !important;
+  background-color: transparent !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu .dropdown-item a {
+  color: #000000 !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar.nav-scroll .navbar-nav .dropdown-menu .dropdown-item:active {
+  background-color: #e8e8e8 !important;
+  color: #000000 !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu .dropdown-item:hover a {
+  color: #000000 !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu a {
+  color: #ffffff !important;
+}
+
+.navbar.nav-scroll .navbar-nav .dropdown-menu a:hover {
+  color: #ffffff !important;
+}
+
+.navbar.nav-scroll .menu-icon .icon {
+  color: #000000 !important;
+}
+
+.navbar.nav-scroll .menu-icon:hover .icon {
+  color: #333333 !important;
+}
+</style>

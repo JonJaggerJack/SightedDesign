@@ -2,7 +2,7 @@
   <header class="slider slider-prlx">
     <div class="swiper-container parallax-slider">
       <Swiper
-        effect="Parallax"
+        ref="swiperRef"
         class="swiper-container parallax-slider"
         v-bind="swiperOptions"
       >
@@ -60,7 +60,7 @@
       </Swiper>
     </div>
     <div class="slider-contro main-bg">
-      <div class="swiper-button-prev swiper-nav-ctrl cursor-pointer">
+      <div class="swiper-button-prev swiper-nav-ctrl cursor-pointer swiper-button-prev-modern">
         <div>
           <span>Prev</span>
         </div>
@@ -68,7 +68,7 @@
       <div class="ml-30 mr-30">
         <span>/</span>
       </div>
-      <div class="swiper-button-next swiper-nav-ctrl cursor-pointer">
+      <div class="swiper-button-next swiper-nav-ctrl cursor-pointer swiper-button-next-modern">
         <div>
           <span>Next</span>
         </div>
@@ -107,26 +107,43 @@
 
 <script setup>
 import { Swiper, SwiperSlide } from 'swiper/vue';
-import { Navigation, Pagination, Parallax } from 'swiper';
-import { onMounted } from 'vue';
+import { Navigation, Pagination, Parallax, Autoplay } from 'swiper';
+import { onMounted, ref } from 'vue';
 //= Common Scripts
 import loadBackgroudImages from '@/common/loadBackgroudImages';
+
+const swiperRef = ref(null);
 
 // Initialize background images when component is mounted
 onMounted(() => {
   loadBackgroudImages();
+  // Configure navigation after mount
+  if (swiperRef.value && swiperRef.value.swiper) {
+    swiperRef.value.swiper.params.navigation.nextEl = '.swiper-button-next-modern';
+    swiperRef.value.swiper.params.navigation.prevEl = '.swiper-button-prev-modern';
+    swiperRef.value.swiper.navigation.init();
+    swiperRef.value.swiper.navigation.update();
+  }
 });
-const swiperOptions = {
-  modules: [Navigation, Parallax, Pagination],
 
+const swiperOptions = {
+  modules: [Navigation, Parallax, Pagination, Autoplay],
   spaceBetween: 30,
   speed: 600,
+  loop: true,
+  autoplay: {
+    delay: 5000,
+    disableOnInteraction: false,
+  },
   navigation: {
-    nextEl: '.slider-contro .swiper-button-next',
-    prevEl: '.slider-contro .swiper-button-prev',
+    nextEl: '.swiper-button-next-modern',
+    prevEl: '.swiper-button-prev-modern',
   },
   pagination: {
     el: '.swiper-pagination',
+    clickable: true,
   },
+  observer: true,
+  observeParents: true,
 };
 </script>
