@@ -6,10 +6,12 @@
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">Meet our <span class="fw-200">legends</span></h2>
           <div class="ml-auto">
+            <!-- 
             <a href="/light/page-team" class="go-more">
               <span class="text">Join to us</span>
               <span class="icon ti-arrow-top-right"></span>
             </a>
+            -->
           </div>
         </div>
       </div>

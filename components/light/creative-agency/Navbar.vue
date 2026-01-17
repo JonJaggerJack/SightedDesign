@@ -61,6 +61,7 @@
                   Services
                 </a>
               </li>
+              <!-- 
               <li>
                 <a class="dropdown-item" href="/light/page-team"> Our Team </a>
               </li>
@@ -69,6 +70,7 @@
                   Team Details
                 </a>
               </li>
+              -->
             </ul>
           </li>
           <li class="nav-item">
@@ -161,6 +163,7 @@
                         Services
                       </a>
                     </li>
+                    <!-- 
                     <li>
                       <a href="/light/page-team" class="sub-link">
                         Our Team
@@ -171,6 +174,7 @@
                         Team Details
                       </a>
                     </li>
+                    -->
                   </ul>
                 </div>
               </li>
