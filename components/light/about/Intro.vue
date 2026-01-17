@@ -4,7 +4,7 @@
       <div class="row justify-content-end">
         <div class="col-sm-9">
           <div class="img to-up fit-img">
-            <img src="/light/assets/imgs/background/4.jpg" alt="" />
+            <img src="/light/assets/imgs/background/9.jpg" alt="" />
           </div>
         </div>
       </div>

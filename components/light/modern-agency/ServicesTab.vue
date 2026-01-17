@@ -1,4 +1,5 @@
 <template>
+  <!-- 
   <section class="services-tab section-padding mb-80">
     <div class="container">
       <div class="row lg-marg" id="tabs">
@@ -6,7 +7,7 @@
           <div class="serv-tab-cont md-mb80">
             <div class="tab-content current" id="tabs-1">
               <div class="item">
-                <div class="img">
+                <div class="img" style="height: 350px;">
                   <img src="/light/assets/imgs/intro/03.jpg" alt="" />
                 </div>
                 <div class="cont sub-bg">
@@ -29,7 +30,7 @@
             </div>
             <div class="tab-content" id="tabs-2">
               <div class="item">
-                <div class="img">
+                <div class="img" style="height: 350px;">
                   <img src="/light/assets/imgs/intro/02.jpg" alt="" />
                 </div>
                 <div class="cont sub-bg">
@@ -52,7 +53,7 @@
             </div>
             <div class="tab-content" id="tabs-3">
               <div class="item">
-                <div class="img">
+                <div class="img" style="height: 350px;">
                   <img src="/light/assets/imgs/intro/03.jpg" alt="" />
                 </div>
                 <div class="cont sub-bg">
@@ -75,7 +76,7 @@
             </div>
             <div class="tab-content" id="tabs-4">
               <div class="item">
-                <div class="img">
+                <div class="img" style="height: 350px;">
                   <img src="/light/assets/imgs/intro/03.jpg" alt="" />
                 </div>
                 <div class="cont sub-bg">
@@ -155,6 +156,7 @@
       </div>
     </div>
   </section>
+  -->
 </template>
 
 <script setup>

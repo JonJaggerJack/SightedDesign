@@ -7,7 +7,8 @@
             <div class="img">
               <img src="/light/assets/imgs/blog/b/7.jpg" alt="" />
               <div class="tag sub-bg">
-                <span>Envato</span>
+                
+                <span>creative</span>
                 <div class="shap-right-bottom">
                   <svg
                     viewBox="0 0 11 11"
@@ -38,7 +39,7 @@
             </div>
             <div class="cont">
               <div class="date fz-13 text-u ls1 mb-10 opacity-7">
-                <a href="#">30 august 2021</a>
+                <a href="#">05 december 2025</a>
               </div>
               <h5>
                 <a href="#">
@@ -55,12 +56,14 @@
             </div>
           </div>
         </div>
+        <!-- 
         <div class="col-lg-4">
           <div class="item sub-bg mb-40">
             <div class="img">
               <img src="/light/assets/imgs/blog/b/10.jpg" alt="" />
               <div class="tag sub-bg">
-                <span>Envato</span>
+                
+                <span>creative</span>
                 <div class="shap-right-bottom">
                   <svg
                     viewBox="0 0 11 11"
@@ -91,7 +94,7 @@
             </div>
             <div class="cont">
               <div class="date fz-13 text-u ls1 mb-10 opacity-7">
-                <a href="#">30 august 2021</a>
+                <a href="#">10 december 2025</a>
               </div>
               <h5>
                 <a href="#">
@@ -108,12 +111,14 @@
             </div>
           </div>
         </div>
+        -->
         <div class="col-lg-4">
           <div class="item sub-bg mb-40">
             <div class="img">
               <img src="/light/assets/imgs/blog/b/1.jpg" alt="" />
               <div class="tag sub-bg">
-                <span>Envato</span>
+                
+                <span>creative</span>
                 <div class="shap-right-bottom">
                   <svg
                     viewBox="0 0 11 11"
@@ -144,7 +149,7 @@
             </div>
             <div class="cont">
               <div class="date fz-13 text-u ls1 mb-10 opacity-7">
-                <a href="#">30 august 2021</a>
+                <a href="#">15 december 2025</a>
               </div>
               <h5>
                 <a href="#">
@@ -161,12 +166,14 @@
             </div>
           </div>
         </div>
+        <!-- 
         <div class="col-lg-4">
           <div class="item sub-bg mb-40">
             <div class="img">
               <img src="/light/assets/imgs/blog/b/9.jpg" alt="" />
               <div class="tag sub-bg">
-                <span>Envato</span>
+                
+                <span>creative</span>
                 <div class="shap-right-bottom">
                   <svg
                     viewBox="0 0 11 11"
@@ -197,7 +204,7 @@
             </div>
             <div class="cont">
               <div class="date fz-13 text-u ls1 mb-10 opacity-7">
-                <a href="#">30 august 2021</a>
+                <a href="#">20 december 2025</a>
               </div>
               <h5>
                 <a href="#">
@@ -214,12 +221,14 @@
             </div>
           </div>
         </div>
+        -->
         <div class="col-lg-4">
           <div class="item sub-bg mb-40">
             <div class="img">
               <img src="/light/assets/imgs/blog/b/4.jpg" alt="" />
               <div class="tag sub-bg">
-                <span>Envato</span>
+                
+                <span>creative</span>
                 <div class="shap-right-bottom">
                   <svg
                     viewBox="0 0 11 11"
@@ -250,7 +259,7 @@
             </div>
             <div class="cont">
               <div class="date fz-13 text-u ls1 mb-10 opacity-7">
-                <a href="#">30 august 2021</a>
+                <a href="#">22 december 2025</a>
               </div>
               <h5>
                 <a href="#">
@@ -267,12 +276,14 @@
             </div>
           </div>
         </div>
+        <!-- 
         <div class="col-lg-4">
           <div class="item sub-bg mb-40">
             <div class="img">
               <img src="/light/assets/imgs/blog/b/8.jpg" alt="" />
               <div class="tag sub-bg">
-                <span>Envato</span>
+                
+                <span>creative</span>
                 <div class="shap-right-bottom">
                   <svg
                     viewBox="0 0 11 11"
@@ -303,7 +314,7 @@
             </div>
             <div class="cont">
               <div class="date fz-13 text-u ls1 mb-10 opacity-7">
-                <a href="#">30 august 2021</a>
+                <a href="#">25 december 2025</a>
               </div>
               <h5>
                 <a href="#">
@@ -320,7 +331,10 @@
             </div>
           </div>
         </div>
+        -->
       </div>
     </div>
   </section>
 </template>
+
+

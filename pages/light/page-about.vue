@@ -12,7 +12,7 @@
         <Marquee />
         <Intro2 />
         <Testimonials />
-        <Team />
+        <!-- <Team /> -->
         <Blog />
       </main>
       <Footer />

@@ -19,18 +19,18 @@
               <div class="col-md-6">
                 <div class="morinfo mt-30">
                   <h6 class="mb-15">Address</h6>
-                  <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+                  <p>Ibanda, Q. Nyalukemba, Avenue de la Residence</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="morinfo mt-30">
                   <h6 class="mb-15">Email</h6>
-                  <p>Support@uithemez.com</p>
+                  <p>contact@sighteddesign.com</p>
                 </div>
               </div>
             </div>
             <div class="phone fz-30 fw-600 mt-30 underline main-color">
-              <a href="#0">+1 840 841 25 69</a>
+              <a href="#0">+243 992 304 444</a>
             </div>
             <ul class="rest social-text d-flex mt-60">
               <li class="mr-30">

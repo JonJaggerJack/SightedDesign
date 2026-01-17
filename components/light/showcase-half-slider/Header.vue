@@ -9,25 +9,25 @@
               data-background="/light/assets/imgs/works/full/1.jpg"
               data-overlay-dark="3"
             >
-              <a href="/light/project1"></a>
+              <a href="#"></a>
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div
               class="bg-img"
-              data-background="/light/assets/imgs/works/full/2.jpg"
+              data-background="/light/assets/imgs/works/full/2.png"
               data-overlay-dark="3"
             >
-              <a href="/light/project2"></a>
+              <a href="#"></a>
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div
               class="bg-img"
-              data-background="/light/assets/imgs/works/full/3.jpg"
+              data-background="/light/assets/imgs/works/full/3.png"
               data-overlay-dark="3"
             >
-              <a href="/light/project3"></a>
+              <a href="#"></a>
             </div>
           </SwiperSlide>
           <SwiperSlide>
@@ -36,7 +36,7 @@
               data-background="/light/assets/imgs/works/full/4.jpg"
               data-overlay-dark="3"
             >
-              <a href="/light/project4"></a>
+              <a href="#"></a>
             </div>
           </SwiperSlide>
           <SwiperSlide>
@@ -45,7 +45,7 @@
               data-background="/light/assets/imgs/works/full/5.jpg"
               data-overlay-dark="3"
             >
-              <a href="/light/project5"></a>
+              <a href="#"></a>
             </div>
           </SwiperSlide>
           <SwiperSlide>
@@ -54,7 +54,7 @@
               data-background="/light/assets/imgs/works/full/6.jpg"
               data-overlay-dark="3"
             >
-              <a href="/light/project6"></a>
+              <a href="#"></a>
             </div>
           </SwiperSlide>
         </Swiper>
@@ -169,7 +169,7 @@ const swiperGalleryTextOptions = {
   slidesPerView: 2,
   touchRatio: 0.2,
   slideToClickedSlide: true,
-  loopedSlides: 4,
+  loop: false,
   mousewheel: true,
   speed: 1500,
   breakpoints: {
@@ -206,7 +206,7 @@ const swiperGalleryImageOptions = {
   },
   spaceBetween: 0,
   centeredSlides: true,
-  loopedSlides: 4,
+  loop: false,
   mousewheel: true,
   speed: 1500,
   navigation: {

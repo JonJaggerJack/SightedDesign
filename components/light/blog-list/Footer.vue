@@ -1,11 +1,12 @@
 <template>
-  <footer class="modern-footer sub-bg pt-80">
+  <footer class="modern-footer pt-80">
     <div class="footer-container">
       <div class="container ontop">
         <div class="row pb-30 bord-thin-bottom">
           <div class="col-lg-5">
             <div class="logo icon-img-120">
-              <img src="/light/assets/imgs/logo-light.png" alt="" />
+              <img src="/light/assets/imgs/screw-logo/sighted-design-logo-04.svg" alt="Sighted Design" />
+              <!-- <span class="logo-text">SIGHTEDDESIGN</span> -->
             </div>
           </div>
           <div class="col-lg-7">
@@ -18,7 +19,7 @@
                 </li>
                 <li class="hover-this cursor-pointer ml-50">
                   <a href="#0" class="hover-anim">
-                    <i class="fab fa-dribbble mr-10"></i> Dribbble
+                    <i class="fab fa-twitter mr-10"></i> X (Twitter)
                   </a>
                 </li>
                 <li class="hover-this cursor-pointer ml-50">
@@ -44,8 +45,8 @@
                 </span>
                 <span class="sideup-text">
                   <span class="up-text underline">
-                    <a href="/light/page-contact3" class="main-color">
-                      Let’s get to work.
+                    <a href="/light/page-contact" class="main-color">
+                      Let's get to work.
                     </a>
                   </span>
                 </span>
@@ -53,7 +54,7 @@
               <div class="info mt-80 d-flex align-items-center">
                 <div>
                   <a href="#0" class="butn butn-md butn-bord-thin radius-30">
-                    <span class="text">Support@Website.com</span>
+                    <span class="text">Contact@Sighteddesign.com</span>
                   </a>
                 </div>
                 <div>
@@ -61,7 +62,7 @@
                     href="#0"
                     class="butn butn-md butn-bord-thin radius-30 ml-30"
                   >
-                    <span class="text">+2 456 (343) 24 45</span>
+                    <span class="text">+243 992 304 444</span>
                   </a>
                 </div>
               </div>
@@ -87,7 +88,7 @@
                     </li>
                   </ul>
                 </div>
-                <div class="col-6">
+                <!-- <div class="col-6">
                   <ul class="rest fz-14">
                     <li class="mb-15">
                       <a href="/light/page-FAQS">FAQS</a>
@@ -102,7 +103,7 @@
                       <a href="/light/page-about2">Help</a>
                     </li>
                   </ul>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="subscribe-minimal mt-50">
@@ -117,14 +118,9 @@
             </div>
           </div>
         </div>
-        <div class="text-center pt-30 pb-30 main-bg mt-80">
+        <div class="text-center pt-30 pb-30 sub-bg mt-80">
           <p class="fz-14">
-            © 2024 InFolio is Proudly Powered by
-            <span class="underline main-color">
-              <a href="https://themeforest.net/user/UiCamp" target="_blank">
-                UiCamp
-              </a>
-            </span>
+            © 2026 Sighteddesign
           </p>
         </div>
       </div>
@@ -132,9 +128,7 @@
   </footer>
 </template>
 <script setup>
-import { onMounted, onBeforeUnmount } from 'vue';
-import loadBackgroudImages from '@/common/loadBackgroudImages';
-
+import { onMounted } from 'vue';
 onMounted(() => {
   gsap.set('.footer-container', { yPercent: -50 });
   const uncover = gsap.timeline({ paused: true });
@@ -147,6 +141,30 @@ onMounted(() => {
     animation: uncover,
     scrub: true,
   });
-  loadBackgroudImages();
 });
 </script>
+
+<style scoped>
+.logo .logo-text {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  line-height: 1;
+}
+
+.sideup-text,
+.up-text.underline {
+  color: #ffffff !important;
+}
+
+.up-text.underline a {
+  color: #ffffff !important;
+}
+
+.fz-14 {
+  color: #ffffff !important;
+}
+</style>

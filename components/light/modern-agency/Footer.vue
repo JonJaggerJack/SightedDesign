@@ -75,16 +75,16 @@
                 <div class="col-6">
                   <ul class="rest fz-14">
                     <li class="mb-15">
-                      <a href="/light/page-about3">About</a>
+                      <a href="/light/page-about">About</a>
                     </li>
                     <li class="mb-15">
                       <a href="/light/page-services">Services</a>
                     </li>
                     <li class="mb-15">
-                      <a href="/light/blog-list2">Blog</a>
+                      <a href="/light/blog-list">Blog</a>
                     </li>
                     <li>
-                      <a href="/light/page-contact3">Contact</a>
+                      <a href="/light/page-contact">Contact</a>
                     </li>
                   </ul>
                 </div>

@@ -19,15 +19,23 @@
               </div>
             </div>
             <div class="col-md-5 rest">
-              <div class="img fit-img bord-thin-left">
-                <img src="/light/assets/imgs/intro/02.jpg" alt="" />
+              <div class="img fit-img bord-thin-left position-re">
+                <div
+                  class="bg-dots bg-img"
+                  data-background="/light/assets/imgs/patterns/dots.png"
+                  style="height: 300px; width: 100%;"
+                ></div>
               </div>
             </div>
           </div>
           <div class="row justify-content-end bord-thin-top rest">
             <div class="col-md-5 rest">
-              <div class="img fit-img">
-                <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+              <div class="img fit-img position-re">
+                <div
+                  class="bg-dots bg-img"
+                  data-background="/light/assets/imgs/patterns/dots.png"
+                  style="height: 300px; width: 100%;"
+                ></div>
               </div>
             </div>
             <div class="col-md-5 rest">

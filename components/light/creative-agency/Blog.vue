@@ -33,7 +33,7 @@
           <div class="col-lg-6">
             <div class="cont">
               <h5 class="mb-10 underline">
-                <a href="/light/blog-details">
+                <a href="#">
                   The Highly Creative UI/UX Workflow from a Silicon Valley.
                 </a>
               </h5>
@@ -57,7 +57,7 @@
           data-overlay-dark="4"
         >
           <div class="more ontop full-width">
-            <a href="/light/blog-details">
+            <a href="#">
               <span> Read More <i class="fas fa-arrow-right ml-10"></i> </span>
             </a>
           </div>
@@ -83,7 +83,7 @@
           <div class="col-lg-6">
             <div class="cont">
               <h5 class="mb-10 underline">
-                <a href="/light/blog-details">
+                <a href="#">
                   Creativo Jóvenes: a Lead Designer&#39;s UI/UX Core Checklist.
                 </a>
               </h5>
@@ -107,7 +107,7 @@
           data-overlay-dark="4"
         >
           <div class="more ontop full-width">
-            <a href="/light/blog-details">
+            <a href="#">
               <span> Read More <i class="fas fa-arrow-right ml-10"></i> </span>
             </a>
           </div>
@@ -133,7 +133,7 @@
           <div class="col-lg-6">
             <div class="cont">
               <h5 class="mb-10 underline">
-                <a href="/light/blog-details">
+                <a href="#">
                   Definitive Guide to Make a Daily More Productive Working Flow.
                 </a>
               </h5>
@@ -157,7 +157,7 @@
           data-overlay-dark="4"
         >
           <div class="more ontop full-width">
-            <a href="/light/blog-details">
+            <a href="#">
               <span> Read More <i class="fas fa-arrow-right ml-10"></i> </span>
             </a>
           </div>

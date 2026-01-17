@@ -28,7 +28,7 @@
               id="content-carousel-container-unq-w"
               v-bind="swiperOptions"
             >
-              <SwiperSlide v-for="(item, i) in data" :key="i">
+              <SwiperSlide v-for="(item, i) in data.slice(8, 18)" :key="i">
                 <div class="item">
                   <div class="img">
                     <img :src="item.img" alt="" />

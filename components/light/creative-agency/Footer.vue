@@ -48,7 +48,7 @@
                 <a href="/light/page-services">Services</a>
               </li>
               <li class="mb-15">
-                <a href="/light/blog-list2">Blog</a>
+                <a href="/light/blog-list">Blog</a>
               </li>
               <li>
                 <a href="/light/page-contact">Contact</a>
@@ -56,7 +56,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-lg-2">
+        <!-- <div class="col-lg-2">
           <div class="column">
             <h6 class="sub-title mb-30">Support</h6>
             <ul class="rest fz-14">
@@ -74,7 +74,7 @@
               </li>
             </ul>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="d-flex align-items-center pt-30 pb-30 mt-80 bord-thin-top">
         <div>

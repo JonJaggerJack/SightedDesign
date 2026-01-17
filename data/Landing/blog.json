@@ -4,26 +4,26 @@
     "title": "Utilizing mobile technology in the field.",
     "tag": "Inspiration",
     "date": "August 7, 2022",
-    "link": "/blog-details",
+    "link": "#",
     "img": "/assets/imgs/blog/b1.jpg",
-    "readMoreLink": "/blog-details"
+    "readMoreLink": "#"
   },
   {
     "id": 2,
     "title": "Working from home? Let’s get started.",
     "tag": "Inspiration",
     "date": "August 7, 2022",
-    "link": "/blog-details",
+    "link": "#",
     "img": "/assets/imgs/blog/b2.jpg",
-    "readMoreLink": "/blog-details"
+    "readMoreLink": "#"
   },
   {
     "id": 3,
     "title": "There’s an actual science to create good music.",
     "tag": "Inspiration",
     "date": "August 7, 2022",
-    "link": "/blog-details",
+    "link": "#",
     "img": "/assets/imgs/blog/b3.jpg",
-    "readMoreLink": "/blog-details"
+    "readMoreLink": "#"
   }
 ]

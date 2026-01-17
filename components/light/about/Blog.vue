@@ -44,7 +44,7 @@
                     <a href="/light/blog-list">Marketing</a>
                   </div>
                   <h5>
-                    <a href="/light/blog-details">
+                    <a href="#">
                       Free advertising for your online business.
                     </a>
                   </h5>
@@ -87,7 +87,7 @@
                     <a href="/light/blog-list">Design</a>
                   </div>
                   <h5>
-                    <a href="/light/blog-details">
+                    <a href="#">
                       Business meeting 2023 in San Francisco.
                     </a>
                   </h5>

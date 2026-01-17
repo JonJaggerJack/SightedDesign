@@ -1,7 +1,7 @@
 <template>
   <section
     class="testimonials-crev section-padding pb-0 bg-img"
-    data-background="/light/assets/imgs/background/2.jpg"
+    data-background="/light/assets/imgs/background/8.JPEG"
     data-overlay-dark="5"
   >
     <div class="container">

@@ -29,7 +29,7 @@
         </div>
         <div class="col-lg-6">
           <div class="img-vid">
-            <img src="/light/assets/imgs/intro/2.jpg" alt="" />
+            <!-- <img src="/light/assets/imgs/intro/2.jpg" alt="" /> -->
             <div class="curv-butn main-bg">
               <a href="https://youtu.be/AzwC6umvd1s" class="vid">
                 <div class="icon">

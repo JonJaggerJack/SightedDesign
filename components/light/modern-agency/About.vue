@@ -7,16 +7,16 @@
             <div class="d-flex align-items-center">
               <div>
                 <div class="info">
-                  <h6>
+                  <!-- <h6>
                     Sam <br />
                     Peterson
-                  </h6>
-                  <p class="nowrap">Ceo Manager</p>
+                  </h6> -->
+                  <!-- <p class="nowrap">Ceo Manager</p> -->
                 </div>
               </div>
               <div>
                 <div class="img fit-img radius-30">
-                  <img src="/light/assets/imgs/intro/03.jpg" alt="" />
+                  <img src="/light/assets/imgs/intro/5.JPEG" alt="" />
                 </div>
               </div>
             </div>
@@ -55,13 +55,13 @@
                 <div class="mt-50">
                   <div class="skills-box">
                     <div class="skill-item mb-40">
-                      <h5 class="sub-title mb-15">UI / UX Design</h5>
+                      <h5 class="sub-title mb-15">Photography</h5>
                       <div class="skill-progress">
                         <div class="progres" data-value="90%"></div>
                       </div>
                     </div>
                     <div class="skill-item">
-                      <h5 class="sub-title mb-15">Apps Development</h5>
+                      <h5 class="sub-title mb-15">Videography</h5>
                       <div class="skill-progress">
                         <div class="progres" data-value="80%"></div>
                       </div>
