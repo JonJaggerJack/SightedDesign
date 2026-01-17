@@ -26,7 +26,7 @@ import ProgressScroll from '@/components/light/common/ProgressScroll';
 import Cursor from '@/components/light/common/cusor';
 import LoadingScreen from '@/components/light/common/loader';
 import Navbar from '@/components/light/creative-agency/Navbar';
-import Testimonials from '@/components/light/FAQS/Testimonials';
+import Testimonials from '@/components/light/creative-agency/Testimonials';
 import Header from '@/components/light/services/Header';
 import Services from '@/components/light/services/Services';
 import Marquee from '@/components/light/services/Marquee';
