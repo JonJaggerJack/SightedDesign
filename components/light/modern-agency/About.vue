@@ -51,7 +51,7 @@
                   </p>
                 </div>
                 <div class="mt-50">
-                  <NuxtLink to="/light/page-about" class="btn-link">
+                  <NuxtLink to="/light/about" class="btn-link">
                     <span>Read More</span>
                     <svg class="icon-tabler-arrow-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>

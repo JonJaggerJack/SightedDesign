@@ -8,7 +8,7 @@
       <div class="cal-action pb-50 mb-80 bord-thin-bottom">
         <h2 class="fz-120 line-height-1 d-rotate wow">
           <span class="rotate-text">
-            <a href="/light/page-contact3">
+            <a href="/light/contact">
               Let’s Contact
               <span class="ml-30 fz-70 ti-arrow-top-right"></span>
             </a>
@@ -42,7 +42,7 @@
             <h6 class="sub-title mb-30">Useful Links</h6>
             <ul class="rest fz-14">
               <li class="mb-15">
-                <a href="/light/page-about">About</a>
+                <a href="/light/about">About</a>
               </li>
               <li class="mb-15">
                 <a href="/light/our-work">Our Work</a>
@@ -51,7 +51,7 @@
                 <a href="/light/blog-list">Blog</a>
               </li>
               <li>
-                <a href="/light/page-contact">Contact</a>
+                <a href="/light/contact">Contact</a>
               </li>
             </ul>
           </div>
@@ -61,16 +61,16 @@
             <h6 class="sub-title mb-30">Support</h6>
             <ul class="rest fz-14">
               <li class="mb-15">
-                <a href="/light/page-FAQS">FAQS</a>
+                <a href="/light/about">FAQS</a>
               </li>
               <li class="mb-15">
-                <a href="/light/page-about">Term & Conditions</a>
+                <a href="/light/about">Term & Conditions</a>
               </li>
               <li class="mb-15">
-                <a href="/light/page-about">Privacy policy</a>
+                <a href="/light/about">Privacy policy</a>
               </li>
               <li>
-                <a href="/light/page-about">Help</a>
+                <a href="/light/about">Help</a>
               </li>
             </ul>
           </div>

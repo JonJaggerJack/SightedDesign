@@ -27,7 +27,7 @@
             <h6 class="sub-title mb-30">Useful Links</h6>
             <ul class="rest fz-14 opacity-7">
               <li class="mb-15">
-                <a href="/page-about">About</a>
+                <a href="/light/about">About</a>
               </li>
               <li class="mb-15">
                 <a href="/light/our-work">Our Work</a>
@@ -36,7 +36,7 @@
                 <a href="/blog-grid-sidebar">Blog</a>
               </li>
               <li>
-                <a href="/page-contact">Contact</a>
+                <a href="/light/contact">Contact</a>
               </li>
             </ul>
           </div>

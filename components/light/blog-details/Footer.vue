@@ -8,7 +8,7 @@
       <div class="cal-action pb-50 mb-80 bord-thin-bottom">
         <h2 class="fz-120 line-height-1 d-rotate wow">
           <span class="rotate-text">
-            <a href="/light/page-contact3">
+            <a href="/light/contact">
               Let’s Contact
               <span class="ml-30 fz-70 ti-arrow-top-right"></span>
             </a>

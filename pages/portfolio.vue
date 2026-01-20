@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-import LightPage from '@/pages/light/portfolio-gallery.vue';
+import LightPage from '@/pages/light/gallery.vue';
 </script>

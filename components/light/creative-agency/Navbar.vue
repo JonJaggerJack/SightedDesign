@@ -22,7 +22,7 @@
           <li class="nav-item">
             <a
               class="nav-link"
-              href="/light/portfolio-gallery"
+              href="/light/gallery"
             >
               <span class="rolling-text">Gallery</span>
             </a>
@@ -30,7 +30,7 @@
           <li class="nav-item">
             <a
               class="nav-link"
-              href="/light/showcase-half-slider"
+              href="/light/showcase"
             >
               <span class="rolling-text">Creative Slider</span>
             </a>
@@ -52,7 +52,7 @@
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-item">
-                <a href="/light/page-about">
+                <a href="/light/about">
                   About Us
                 </a>
               </li>
@@ -76,7 +76,7 @@
             @mouseleave="handleDropdownMouseLeave"
             class="nav-item"
           >
-            <a class="nav-link" href="/light/page-contact">
+            <a class="nav-link" href="/light/contact">
               <span class="rolling-text">Contact Us</span>
             </a>
           </li>
@@ -118,14 +118,14 @@
               </li>
               <li>
                 <div class="o-hidden">
-                  <a href="/light/portfolio-gallery" class="link cursor-pointer dmenu">
+                  <a href="/light/gallery" class="link cursor-pointer dmenu">
                     <span class="fill-text" data-text="Gallery"> Gallery </span>
                   </a>
                 </div>
               </li>
               <li>
                 <div class="o-hidden">
-                  <a href="/light/showcase-half-slider" class="link cursor-pointer dmenu">
+                  <a href="/light/showcase" class="link cursor-pointer dmenu">
                     <span class="fill-text" data-text="Creative Slider"> Creative Slider </span>
                   </a>
                 </div>
@@ -144,7 +144,7 @@
                 <div class="sub-menu no-bord">
                   <ul>
                     <li>
-                      <a href="/light/page-about" class="sub-link">
+                      <a href="/light/about" class="sub-link">
                         About Us
                       </a>
                     </li>
@@ -165,7 +165,7 @@
               </li>
               <li>
                 <div class="o-hidden">
-                  <a href="/light/page-contact" class="link cursor-pointer dmenu">
+                  <a href="/light/contact" class="link cursor-pointer dmenu">
                     <span class="fill-text" data-text="Contact Us"> Contact Us </span>
                   </a>
                 </div>

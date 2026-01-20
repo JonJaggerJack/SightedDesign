@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-import LightPage from '@/pages/light/showcase-half-slider.vue';
+import LightPage from '@/pages/light/showcase.vue';
 </script>
