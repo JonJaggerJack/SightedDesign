@@ -57,8 +57,8 @@
                 </a>
               </li>
               <li class="dropdown-item">
-                <a href="/light/page-services">
-                  Services
+                <a href="/light/our-work">
+                  Our Work
                 </a>
               </li>
             </ul>
@@ -149,8 +149,8 @@
                       </a>
                     </li>
                     <li>
-                      <a href="/light/page-services" class="sub-link">
-                        Services
+                      <a href="/light/our-work" class="sub-link">
+                        Our Work
                       </a>
                     </li>
                   </ul>

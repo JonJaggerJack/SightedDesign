@@ -7,12 +7,7 @@
     <div id="smooth-content">
       <main class="main-bg">
         <Header />
-        <Services />
-        <Marquee />
-        <Price />
-        <Testimonials />
-        <Process />
-        <Blog />
+        <Portfolio />
       </main>
       <Footer />
     </div>
@@ -24,13 +19,8 @@ import Lines from '@/components/light/common/Lines';
 import ProgressScroll from '@/components/light/common/ProgressScroll';
 import Cursor from '@/components/light/common/cusor';
 import Navbar from '@/components/light/creative-agency/Navbar';
-import Testimonials from '@/components/light/creative-agency/Testimonials';
-import Header from '@/components/light/services/Header';
-import Services from '@/components/light/services/Services';
-import Marquee from '@/components/light/services/Marquee';
-import Price from '@/components/light/services/Price';
-import Process from '@/components/light/services/Process';
-import Blog from '@/components/light/services/Blog';
+import Header from '@/components/light/portfolio-gallery/Header';
+import Portfolio from '@/components/light/portfolio-gallery/Portfolio';
 import { onMounted } from 'vue';
 
 useHead({

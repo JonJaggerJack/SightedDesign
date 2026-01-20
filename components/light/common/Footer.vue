@@ -30,7 +30,7 @@
                 <a href="/page-about">About</a>
               </li>
               <li class="mb-15">
-                <a href="/page-services">Services</a>
+                <a href="/light/our-work">Our Work</a>
               </li>
               <li class="mb-15">
                 <a href="/blog-grid-sidebar">Blog</a>

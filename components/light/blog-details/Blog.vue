@@ -4,6 +4,8 @@
       <div class="row xlg-marg">
         <div class="col-lg-8">
           <div class="main-post">
+            <!-- Demo blog post content - commented out -->
+            <!-- Blog article about MacBook with demo text and images
             <div class="item pb-60">
               <article>
                 <div class="text">
@@ -349,6 +351,7 @@
                 <a href="/light/blog-list">SightedDesign</a>
               </div>
             </div>
+            -->
           </div>
         </div>
       </div>

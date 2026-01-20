@@ -78,7 +78,7 @@
                       <a href="/light/page-about3">About</a>
                     </li>
                     <li class="mb-15">
-                      <a href="/light/page-services">Services</a>
+                      <a href="/light/our-work">Our Work</a>
                     </li>
                     <li class="mb-15">
                       <a href="/light/blog-list2">Blog</a>

@@ -21,7 +21,7 @@
                       disciplines in the production of all web.
                     </p>
                   </div>
-                  <a href="/light/page-services" class="mt-30">
+                  <a href="/light/our-work" class="mt-30">
                     <span class="mr-15">Read More</span>
                     <i class="fas fa-long-arrow-alt-right"></i>
                   </a>
@@ -44,7 +44,7 @@
                       disciplines in the production of all web.
                     </p>
                   </div>
-                  <a href="/light/page-services" class="mt-30">
+                  <a href="/light/our-work" class="mt-30">
                     <span class="mr-15">Read More</span>
                     <i class="fas fa-long-arrow-alt-right"></i>
                   </a>
@@ -67,7 +67,7 @@
                       disciplines in the production of all web.
                     </p>
                   </div>
-                  <a href="/light/page-services" class="mt-30">
+                  <a href="/light/our-work" class="mt-30">
                     <span class="mr-15">Read More</span>
                     <i class="fas fa-long-arrow-alt-right"></i>
                   </a>
@@ -90,7 +90,7 @@
                       disciplines in the production of all web.
                     </p>
                   </div>
-                  <a href="/light/page-services" class="mt-30">
+                  <a href="/light/our-work" class="mt-30">
                     <span class="mr-15">Read More</span>
                     <i class="fas fa-long-arrow-alt-right"></i>
                   </a>

@@ -8,7 +8,7 @@
             Creative <span class="fw-200">Services</span>
           </h2>
           <div class="ml-auto">
-            <a href="/light/page-services" class="go-more">
+            <a href="/light/our-work" class="go-more">
               <span class="text">Explore all</span>
               <span class="icon ti-arrow-top-right"></span>
             </a>

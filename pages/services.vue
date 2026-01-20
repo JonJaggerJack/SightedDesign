@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-import LightPage from '@/pages/light/page-services.vue';
+import LightPage from '@/pages/light/our-work.vue';
 </script>
