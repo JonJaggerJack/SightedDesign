@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "title": "Utilizing mobile technology in the field.",
-    "tag": "Inspiration",
-    "date": "August 7, 2022",
+    "title": "The Art of Capturing Perfect Light in Photography",
+    "tag": "Photography",
+    "date": "January 15, 2024",
     "link": "#",
     "img": "/assets/imgs/blog/b1.jpg",
     "readMoreLink": "#"
   },
   {
     "id": 2,
-    "title": "Working from home? Let’s get started.",
-    "tag": "Inspiration",
-    "date": "August 7, 2022",
+    "title": "UI/UX Design Trends for Modern Web Applications",
+    "tag": "Design",
+    "date": "January 12, 2024",
     "link": "#",
     "img": "/assets/imgs/blog/b2.jpg",
     "readMoreLink": "#"
   },
   {
     "id": 3,
-    "title": "There’s an actual science to create good music.",
-    "tag": "Inspiration",
-    "date": "August 7, 2022",
+    "title": "Building Strong Brand Identity Through Visual Storytelling",
+    "tag": "Branding",
+    "date": "January 10, 2024",
     "link": "#",
     "img": "/assets/imgs/blog/b3.jpg",
     "readMoreLink": "#"

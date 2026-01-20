@@ -2,425 +2,97 @@
   {
     "id": 1,
     "img": "/light/assets/imgs/works/full/1.jpg",
-    "category": "Digital Design",
-    "title": "Retouch Photo",
-    "year": "2023",
+    "category": "Photography",
+    "title": "Corporate Portrait Series",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 2,
     "img": "/light/assets/imgs/works/full/4.jpg",
     "category": "Branding",
-    "title": "Earthmade Aroma",
-    "year": "2023",
+    "title": "Fashion Brand Identity",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 3,
     "img": "/light/assets/imgs/works/full/5.jpg",
     "category": "Branding",
-    "title": "Bank Rebranding",
-    "year": "2023",
+    "title": "Tech Startup Rebrand",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 4,
     "img": "/light/assets/imgs/works/full/6.jpg",
-    "category": "Product Design",
-    "title": "The joy of music",
-    "year": "2023",
+    "category": "UI/UX Design",
+    "title": "Mobile App Interface",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 5,
     "img": "/light/assets/imgs/works/full/7.jpg",
-    "category": "Digital Art",
-    "title": "Blue Adobe MAX",
-    "year": "2023",
+    "category": "Videography",
+    "title": "Product Showcase Video",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 6,
     "img": "/light/assets/imgs/works/full/8.jpg",
-    "category": "Web Design",
-    "title": "Carved Wood",
-    "year": "2023",
+    "category": "Photography",
+    "title": "Event Coverage",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 7,
     "img": "/light/assets/imgs/works/full/9.jpg",
-    "category": "Digital Design",
-    "title": "Project 9",
-    "year": "2023",
+    "category": "Infographics",
+    "title": "Data Visualization Design",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 8,
     "img": "/light/assets/imgs/works/full/10.jpg",
     "category": "Branding",
-    "title": "Project 10",
-    "year": "2023",
+    "title": "Coffee Shop Brand",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 9,
     "img": "/light/assets/imgs/works/full/11.jpg",
-    "category": "Web Design",
-    "title": "Project 11",
-    "year": "2023",
+    "category": "UI/UX Design",
+    "title": "E-commerce Website",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 10,
     "img": "/light/assets/imgs/works/full/12.jpg",
-    "category": "Digital Art",
-    "title": "Project 12",
-    "year": "2023",
+    "category": "Videography",
+    "title": "Promotional Campaign",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 11,
     "img": "/light/assets/imgs/works/full/13.jpg",
-    "category": "Product Design",
-    "title": "Project 13",
-    "year": "2023",
+    "category": "Photography",
+    "title": "Lifestyle Photography",
+    "year": "2024",
     "link": "#"
   },
   {
     "id": 12,
     "img": "/light/assets/imgs/works/full/14.jpg",
-    "category": "Branding",
-    "title": "Project 14",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 13,
-    "img": "/light/assets/imgs/works/full/15.jpg",
-    "category": "Digital Design",
-    "title": "Project 15",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 14,
-    "img": "/light/assets/imgs/works/full/16.jpg",
-    "category": "Web Design",
-    "title": "Project 16",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 15,
-    "img": "/light/assets/imgs/works/full/17.jpg",
-    "category": "Digital Art",
-    "title": "Project 17",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 16,
-    "img": "/light/assets/imgs/works/full/18.jpg",
-    "category": "Product Design",
-    "title": "Project 18",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 17,
-    "img": "/light/assets/imgs/works/full/19.jpg",
-    "category": "Branding",
-    "title": "Project 19",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 18,
-    "img": "/light/assets/imgs/works/full/20.jpg",
-    "category": "Digital Design",
-    "title": "Project 20",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 19,
-    "img": "/light/assets/imgs/works/full/21.jpg",
-    "category": "Web Design",
-    "title": "Project 21",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 20,
-    "img": "/light/assets/imgs/works/full/22.jpg",
-    "category": "Digital Art",
-    "title": "Project 22",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 21,
-    "img": "/light/assets/imgs/works/full/23.jpg",
-    "category": "Product Design",
-    "title": "Project 23",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 22,
-    "img": "/light/assets/imgs/works/full/24.jpg",
-    "category": "Branding",
-    "title": "Project 24",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 23,
-    "img": "/light/assets/imgs/works/full/25.jpg",
-    "category": "Digital Design",
-    "title": "Project 25",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 24,
-    "img": "/light/assets/imgs/works/full/26.jpg",
-    "category": "Web Design",
-    "title": "Project 26",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 25,
-    "img": "/light/assets/imgs/works/full/27.jpg",
-    "category": "Digital Art",
-    "title": "Project 27",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 26,
-    "img": "/light/assets/imgs/works/full/28.jpg",
-    "category": "Product Design",
-    "title": "Project 28",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 27,
-    "img": "/light/assets/imgs/works/full/29.jpg",
-    "category": "Branding",
-    "title": "Project 29",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 28,
-    "img": "/light/assets/imgs/works/full/30.jpg",
-    "category": "Digital Design",
-    "title": "Project 30",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 29,
-    "img": "/light/assets/imgs/works/full/31.jpg",
-    "category": "Web Design",
-    "title": "Project 31",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 30,
-    "img": "/light/assets/imgs/works/full/32.jpg",
-    "category": "Digital Art",
-    "title": "Project 32",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 31,
-    "img": "/light/assets/imgs/works/full/33.jpg",
-    "category": "Product Design",
-    "title": "Project 33",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 32,
-    "img": "/light/assets/imgs/works/full/34.jpg",
-    "category": "Branding",
-    "title": "Project 34",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 33,
-    "img": "/light/assets/imgs/works/full/35.jpg",
-    "category": "Digital Design",
-    "title": "Project 35",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 34,
-    "img": "/light/assets/imgs/works/full/36.jpg",
-    "category": "Web Design",
-    "title": "Project 36",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 35,
-    "img": "/light/assets/imgs/works/full/37.jpg",
-    "category": "Digital Art",
-    "title": "Project 37",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 36,
-    "img": "/light/assets/imgs/works/full/38.jpg",
-    "category": "Product Design",
-    "title": "Project 38",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 37,
-    "img": "/light/assets/imgs/works/full/39.jpg",
-    "category": "Branding",
-    "title": "Project 39",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 38,
-    "img": "/light/assets/imgs/works/full/40.jpg",
-    "category": "Digital Design",
-    "title": "Project 40",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 39,
-    "img": "/light/assets/imgs/works/full/41.jpg",
-    "category": "Web Design",
-    "title": "Project 41",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 40,
-    "img": "/light/assets/imgs/works/full/42.jpg",
-    "category": "Digital Art",
-    "title": "Project 42",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 41,
-    "img": "/light/assets/imgs/works/full/43.jpg",
-    "category": "Product Design",
-    "title": "Project 43",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 42,
-    "img": "/light/assets/imgs/works/full/44.jpg",
-    "category": "Branding",
-    "title": "Project 44",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 43,
-    "img": "/light/assets/imgs/works/full/45.jpg",
-    "category": "Digital Design",
-    "title": "Project 45",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 44,
-    "img": "/light/assets/imgs/works/full/46.jpg",
-    "category": "Web Design",
-    "title": "Project 46",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 45,
-    "img": "/light/assets/imgs/works/full/47.jpg",
-    "category": "Digital Art",
-    "title": "Project 47",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 46,
-    "img": "/light/assets/imgs/works/full/48.jpg",
-    "category": "Product Design",
-    "title": "Project 48",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 47,
-    "img": "/light/assets/imgs/works/full/49.jpg",
-    "category": "Branding",
-    "title": "Project 49",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 48,
-    "img": "/light/assets/imgs/works/full/50.jpg",
-    "category": "Digital Design",
-    "title": "Project 50",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 49,
-    "img": "/light/assets/imgs/works/full/51.jpg",
-    "category": "Web Design",
-    "title": "Project 51",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 50,
-    "img": "/light/assets/imgs/works/full/52.jpg",
-    "category": "Digital Art",
-    "title": "Project 52",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 51,
-    "img": "/light/assets/imgs/works/full/53.jpg",
-    "category": "Product Design",
-    "title": "Project 53",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 52,
-    "img": "/light/assets/imgs/works/full/54.jpg",
-    "category": "Branding",
-    "title": "Project 54",
-    "year": "2023",
-    "link": "#"
-  },
-  {
-    "id": 53,
-    "img": "/light/assets/imgs/works/full/55.jpg",
-    "category": "Digital Design",
-    "title": "Project 55",
-    "year": "2023",
+    "category": "Infographics",
+    "title": "Marketing Collateral",
+    "year": "2024",
     "link": "#"
   }
 ]
