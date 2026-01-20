@@ -1,5 +1,4 @@
 <template>
-  <LoadingScreen />
   <Cursor />
   <ProgressScroll />
   <Lines />
@@ -9,7 +8,7 @@
       <main class="main-bg">
         <Header />
         <Intro />
-        <Marquee />
+        <!-- <Marquee /> -->
         <Intro2 />
         <Testimonials />
         <!-- <Team /> -->
@@ -25,7 +24,6 @@ import Header from '@/components/light/about/Header';
 import Lines from '@/components/light/common/Lines';
 import ProgressScroll from '@/components/light/common/ProgressScroll';
 import Cursor from '@/components/light/common/cusor';
-import LoadingScreen from '@/components/light/common/loader';
 import Navbar from '@/components/light/creative-agency/Navbar';
 import Intro from '@/components/light/about/Intro';
 import Marquee from '@/components/light/about/Marquee';

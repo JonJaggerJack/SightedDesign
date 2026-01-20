@@ -1,5 +1,5 @@
 <template>
-  <div style="padding: 60px 0; border-top: 1px solid rgba(0,0,0,.2); border-bottom: 1px solid rgba(0,0,0,.2);"></div>
+  <div style="padding: 20px 0; border-top: 1px solid rgba(0,0,0,.2)"></div>
 </template>
 
 <script setup>

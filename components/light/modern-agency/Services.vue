@@ -2,14 +2,14 @@
   <section class="services section-padding pb-0">
     <div class="container">
       <div class="sec-head mb-80">
-        <h6 class="sub-title main-color mb-25">Our Specialize</h6>
+        <h6 class="sub-title main-color mb-25">Our Expertise</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600 text-u ls1">
-            What We <span class="fw-200">Offer</span>
+            Creative <span class="fw-200">Services</span>
           </h2>
           <div class="ml-auto">
             <a href="/light/page-services" class="go-more">
-              <span class="text">View all services</span>
+              <span class="text">Explore all</span>
               <span class="icon ti-arrow-top-right"></span>
             </a>
           </div>
@@ -17,7 +17,7 @@
       </div>
       <div class="row">
         <div v-for="(item, i) in data" :key="i" class="col-md-6">
-          <div class="item-box2 mb-30">
+          <div class="item-box2 mb-30 service-card">
             <div class="icon mb-40">
               <img :src="item.img" alt="" />
             </div>

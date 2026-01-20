@@ -1,5 +1,4 @@
 <template>
-  <LoadingScreen />
   <Cursor />
   <ProgressScroll />
   <Lines />
@@ -15,11 +14,10 @@
   </div>
 </template>
 <script setup>
-import Footer from '@/components/light/modern-agency/Footer';
+import Footer from '@/components/light/contact/Footer';
 import Lines from '@/components/light/common/Lines';
 import ProgressScroll from '@/components/light/common/ProgressScroll';
 import Cursor from '@/components/light/common/cusor';
-import LoadingScreen from '@/components/light/common/loader';
 import Contact from '@/components/light/contact/Contact';
 import Header from '@/components/light/contact/Header';
 import Navbar from '@/components/light/creative-agency/Navbar';

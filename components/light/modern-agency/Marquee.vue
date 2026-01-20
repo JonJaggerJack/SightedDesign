@@ -1,5 +1,5 @@
 <template>
-  <section class="marquee-skew">
+  <!-- <section class="marquee-skew">
     <div class="container-fluid rest">
       <div class="row">
         <div class="col-12">
@@ -74,5 +74,5 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 </template>

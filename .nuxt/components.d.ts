@@ -40,6 +40,8 @@ export const LightCommonProgressScroll: typeof import("../components/light/commo
 export const LightCommonCusor: typeof import("../components/light/common/cusor.vue").default
 export const LightCommonLoader: typeof import("../components/light/common/loader.vue").default
 export const LightContact: typeof import("../components/light/contact/Contact.vue").default
+export const LightContactNew: typeof import("../components/light/contact/Contact_new.vue").default
+export const LightContactFooter: typeof import("../components/light/contact/Footer.vue").default
 export const LightContactHeader: typeof import("../components/light/contact/Header.vue").default
 export const LightCreativeAgencyBlog: typeof import("../components/light/creative-agency/Blog.vue").default
 export const LightCreativeAgencyBrands: typeof import("../components/light/creative-agency/Brands.vue").default
@@ -123,6 +125,8 @@ export const LazyLightCommonProgressScroll: LazyComponent<typeof import("../comp
 export const LazyLightCommonCusor: LazyComponent<typeof import("../components/light/common/cusor.vue").default>
 export const LazyLightCommonLoader: LazyComponent<typeof import("../components/light/common/loader.vue").default>
 export const LazyLightContact: LazyComponent<typeof import("../components/light/contact/Contact.vue").default>
+export const LazyLightContactNew: LazyComponent<typeof import("../components/light/contact/Contact_new.vue").default>
+export const LazyLightContactFooter: LazyComponent<typeof import("../components/light/contact/Footer.vue").default>
 export const LazyLightContactHeader: LazyComponent<typeof import("../components/light/contact/Header.vue").default>
 export const LazyLightCreativeAgencyBlog: LazyComponent<typeof import("../components/light/creative-agency/Blog.vue").default>
 export const LazyLightCreativeAgencyBrands: LazyComponent<typeof import("../components/light/creative-agency/Brands.vue").default>

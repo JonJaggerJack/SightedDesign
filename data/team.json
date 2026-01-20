@@ -1,17 +1,17 @@
 [
   {
     "img": "/light/assets/imgs/team/1.jpg",
-    "name": "Robert De Niro",
-    "subName": "Web Designer"
+    "name": "Khalid Nsimba",
+    "subName": "Founder & Creative Director"
   },
   {
     "img": "/light/assets/imgs/team/2.jpg",
-    "name": "Brendan Fraser",
-    "subName": "Web Designer"
+    "name": "Precious Mbombo",
+    "subName": "Lead Photographer"
   },
   {
     "img": "/light/assets/imgs/team/3.jpg",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
+    "name": "David Mulele",
+    "subName": "UI/UX Specialist"
   }
 ]

@@ -5228,9 +5228,9 @@ body.loaded {
 }
 
 .clients-carso2 {
-  padding: 60px 0;
+  /* padding: 60px 0;
   border-top: 1px solid rgba(0, 0, 0, 0.2);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); */
 }
 
 .clients-carso2 .img {
@@ -6380,7 +6380,7 @@ footer.clean-footer.crev:before {
   margin-top: 25px;
 }
 
-.marquee-skew {
+/* .marquee-skew {
   position: relative;
   overflow: hidden;
   padding: 50px 0;
@@ -6392,7 +6392,7 @@ footer.clean-footer.crev:before {
   width: calc(100% + 60px);
   margin-left: -30px;
   background: #fff;
-}
+} */
 
 /* Interactive
 -----------------------------------------------------------------*/
@@ -8520,7 +8520,6 @@ footer.clean-footer.crev:before {
   width: 100%;
   min-height: 100vh;
   padding: 80px 0;
-  border-radius: 0 0 0 30px;
 }
 
 .slider .parallax-slider .swiper-slide .bg-img {

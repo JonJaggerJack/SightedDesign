@@ -15,7 +15,7 @@
                 </div>
               </div>
               <div>
-                <div class="img fit-img radius-30">
+                <div class="img fit-img">
                   <img src="/light/assets/imgs/intro/5.JPEG" alt="" />
                 </div>
               </div>
@@ -40,33 +40,26 @@
         <div class="col-lg-6 valign">
           <div class="content full-width">
             <div class="sec-head mb-30">
-              <h6 class="sub-title mb-15 main-color">Our Skills</h6>
-              <h2>The ultmiate guide to marketing success.</h2>
+              <h6 class="sub-title mb-15 main-color">About Us</h6>
+              <h2>Your Imaging Resource - Professional Creative Services</h2>
             </div>
             <div class="row justify-content-end">
               <div class="col-lg-11">
                 <div class="text">
                   <p>
-                    We shifted our talents to frontier science because we wanted
-                    our work to have tangible, human-positive impact. Also, we
-                    get front row seats to the future.
+                    At Sighted Design, we believe beauty can be seen in all things. We're dedicated to capturing your most important moments and transforming your creative vision into stunning reality. From photography to videography, infographics to UI/UX design, we bring passion and expertise to every project.
                   </p>
                 </div>
                 <div class="mt-50">
-                  <div class="skills-box">
-                    <div class="skill-item mb-40">
-                      <h5 class="sub-title mb-15">Photography</h5>
-                      <div class="skill-progress">
-                        <div class="progres" data-value="90%"></div>
-                      </div>
-                    </div>
-                    <div class="skill-item">
-                      <h5 class="sub-title mb-15">Videography</h5>
-                      <div class="skill-progress">
-                        <div class="progres" data-value="80%"></div>
-                      </div>
-                    </div>
-                  </div>
+                  <NuxtLink to="/light/page-about" class="btn-link">
+                    <span>Read More</span>
+                    <svg class="icon-tabler-arrow-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                      <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                      <path d="M5 12l14 0"></path>
+                      <path d="M13 18l6 -6"></path>
+                      <path d="M13 6l6 6"></path>
+                    </svg>
+                  </NuxtLink>
                 </div>
               </div>
             </div>
@@ -111,3 +104,31 @@ onUnmounted(() => {
   window.removeEventListener('scroll', handleShowProgressValues);
 });
 </script>
+
+<style scoped>
+.btn-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: #555555;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  border-bottom: 2px solid #555555;
+  padding-bottom: 0.25rem;
+}
+
+.btn-link:hover {
+  color: #1d1d1d;
+  border-bottom-color: #1d1d1d;
+  transform: translateX(4px);
+}
+
+.btn-link svg {
+  transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.btn-link:hover svg {
+  transform: translateX(2px);
+}
+</style>

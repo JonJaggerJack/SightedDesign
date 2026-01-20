@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   nitro: {},
   app: {
     head: {
-      title: 'sighteddesign',
+      title: 'Sighted Design | Your Imaging Resource',
       htmlAttrs: {
         lang: 'en',
       },
@@ -26,11 +26,11 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'sighteddesign',
+          content: 'photography, videography, infographics, UI/UX design, creative agency',
         },
         {
           name: 'description',
-          content: 'Digital Agency',
+          content: 'Your Imaging Resource - Professional photography, videography, infographics and UI/UX design services',
         },
         {
           name: 'author',
@@ -42,7 +42,7 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:description',
-          content: 'Digital Agency - Creative Solutions',
+          content: 'Your Imaging Resource - Photography, Videography, Infographics & UI/UX Design',
         },
         {
           property: 'og:image',
@@ -56,6 +56,10 @@ export default defineNuxtConfig({
       link: [
         { rel: 'shortcut icon', href: '/light/assets/imgs/logo-light.png' },
         // Google Fonts
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap',
+        },
         {
           rel: 'stylesheet',
           href: 'https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap',

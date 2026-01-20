@@ -40,6 +40,8 @@ interface _GlobalComponents {
   'LightCommonCusor': typeof import("../../components/light/common/cusor.vue").default
   'LightCommonLoader': typeof import("../../components/light/common/loader.vue").default
   'LightContact': typeof import("../../components/light/contact/Contact.vue").default
+  'LightContactNew': typeof import("../../components/light/contact/Contact_new.vue").default
+  'LightContactFooter': typeof import("../../components/light/contact/Footer.vue").default
   'LightContactHeader': typeof import("../../components/light/contact/Header.vue").default
   'LightCreativeAgencyBlog': typeof import("../../components/light/creative-agency/Blog.vue").default
   'LightCreativeAgencyBrands': typeof import("../../components/light/creative-agency/Brands.vue").default
@@ -123,6 +125,8 @@ interface _GlobalComponents {
   'LazyLightCommonCusor': LazyComponent<typeof import("../../components/light/common/cusor.vue").default>
   'LazyLightCommonLoader': LazyComponent<typeof import("../../components/light/common/loader.vue").default>
   'LazyLightContact': LazyComponent<typeof import("../../components/light/contact/Contact.vue").default>
+  'LazyLightContactNew': LazyComponent<typeof import("../../components/light/contact/Contact_new.vue").default>
+  'LazyLightContactFooter': LazyComponent<typeof import("../../components/light/contact/Footer.vue").default>
   'LazyLightContactHeader': LazyComponent<typeof import("../../components/light/contact/Header.vue").default>
   'LazyLightCreativeAgencyBlog': LazyComponent<typeof import("../../components/light/creative-agency/Blog.vue").default>
   'LazyLightCreativeAgencyBrands': LazyComponent<typeof import("../../components/light/creative-agency/Brands.vue").default>

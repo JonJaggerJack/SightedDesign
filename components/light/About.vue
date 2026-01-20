@@ -6,8 +6,8 @@
           <div class="cont md-mb50">
             <h6 class="sub-title main-color mb-15">Who We Are</h6>
             <h3>
-              Our practitioners have years of experience in
-              launching & managing projects.
+              Sighted Design is a creative agency specialized in graphic design,
+              photography, videography, web design and online communication.
             </h3>
             <div class="d-flex align-items-end mt-100">
               <div>
@@ -18,10 +18,9 @@
               </div>
               <div class="ml-80">
                 <p>
-                  With our low code solution you can model your process
-                  automation by yourself. This will increase your productivity
-                  in real time and bring all-around flexibility and
-                  best-in-class quality.
+                  Our agency was launched in Burundi in 2015 and since 2017, we have 
+                  established ourselves in the Democratic Republic of Congo. Sighted Design has worked 
+                  with over a hundred organizations throughout the country, Africa and the world.
                 </p>
               </div>
             </div>

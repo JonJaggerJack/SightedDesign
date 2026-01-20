@@ -1,5 +1,6 @@
 <template>
-  <section class="numbers">
+  <!-- Numbers section - Statistics display commented -->
+  <!-- <section class="numbers">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-4 col-md-6">
@@ -35,5 +36,5 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 </template>

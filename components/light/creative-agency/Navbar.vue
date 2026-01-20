@@ -409,7 +409,11 @@ function toggleSubMenu2(event) {
   color: #ffffff;
 }
 
-/* Bouton hamburger blanc */
+/* Bouton hamburger blanc - Masqué en desktop */
+.menu-icon {
+  display: none;
+}
+
 .menu-icon .icon {
   color: #ffffff !important;
   font-size: 24px;
@@ -481,5 +485,12 @@ function toggleSubMenu2(event) {
   font-weight: 700;
   letter-spacing: 2px;
   color: #1a1a1a;
+}
+
+/* Afficher le menu hamburger seulement sur tablette et mobile */
+@media (max-width: 1024px) {
+  .menu-icon {
+    display: flex !important;
+  }
 }
 </style>
